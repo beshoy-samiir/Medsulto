@@ -1,0 +1,74 @@
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\appsettings.Development.json
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\appsettings.json
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Eva project.exe
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Eva project.deps.json
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Eva project.runtimeconfig.json
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Eva project.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Eva project.pdb
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\AutoMapper.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Azure.Core.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Azure.Identity.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Humanizer.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.Data.SqlClient.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.Extensions.Options.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.Identity.Client.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.OpenApi.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.SqlServer.Server.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Mono.TextTemplating.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\System.CodeDom.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\System.Drawing.Common.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\System.Memory.Data.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\System.Runtime.Caching.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\System.Security.Permissions.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\System.Windows.Extensions.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\bin\Release\net7.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.csproj.AssemblyReference.cache
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.AssemblyInfoInputs.cache
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.AssemblyInfo.cs
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.csproj.CoreCompileInputs.cache
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\staticwebassets\msbuild.Eva project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\staticwebassets\msbuild.build.Eva project.props
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\staticwebassets\msbuild.buildMultiTargeting.Eva project.props
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\staticwebassets\msbuild.buildTransitive.Eva project.props
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\staticwebassets.pack.json
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\staticwebassets.build.json
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\staticwebassets.development.json
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\scopedcss\bundle\Eva project.styles.css
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.csproj.CopyComplete
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\refint\Eva project.dll
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.pdb
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\Eva project.genruntimeconfig.cache
+C:\Users\beshoy\Desktop\Eva project\Eva project\obj\Release\net7.0\win-x64\ref\Eva project.dll

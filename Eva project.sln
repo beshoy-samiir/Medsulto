@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eva project", "Eva project\Eva project.csproj", "{713BCDAA-44D9-4C51-942E-EC0FB78CD2FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713BCDAA-44D9-4C51-942E-EC0FB78CD2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713BCDAA-44D9-4C51-942E-EC0FB78CD2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713BCDAA-44D9-4C51-942E-EC0FB78CD2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713BCDAA-44D9-4C51-942E-EC0FB78CD2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {427CEE68-0142-4445-906D-891E44148E30}
+	EndGlobalSection
+EndGlobal

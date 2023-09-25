@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAriRPDlol1UiWxixrUpSrZAAAAAACAAAAAAAQZgAAAAEAACAAAABjWKtENZjIeRnTpkIIh5UPl9NDDtCau5/qhDdqr/WG8gAAAAAOgAAAAAIAACAAAADjqLyDwiHuxa6qy4RgmDdb6JHaUk8PLtEau6VgFTYK7SAAAAA0nITnKhvwNlbveioYshNCIRoyAqbP+62brfjwwT0h00AAAADJyBS0z9lToDZYuBS6vpTCCGYR5VDlqoQD1kPZEoa9MRqG7jIZIF9OQbRAf6BqNvbiqJ4BUlvFWa45xrnifO2F</EncryptedPassword>
+    <History>False|2023-09-14T18:41:36.4657502Z;False|2023-09-14T21:38:50.8552544+03:00;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>ftp://Medsulto.somee.com/www.Medsulto.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/05/2023 22:07:15</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/14/2023 21:02:48</publishTime>
+    </File>
+    <File Include="AutoMapper.dll">
+      <publishTime>01/16/2023 17:41:56</publishTime>
+    </File>
+    <File Include="AutoMapper.Extensions.Microsoft.DependencyInjection.dll">
+      <publishTime>04/09/2023 07:58:02</publishTime>
+    </File>
+    <File Include="Azure.Core.dll">
+      <publishTime>04/04/2022 23:38:56</publishTime>
+    </File>
+    <File Include="Azure.Identity.dll">
+      <publishTime>04/05/2022 22:26:00</publishTime>
+    </File>
+    <File Include="Eva project.deps.json">
+      <publishTime>09/14/2023 21:08:37</publishTime>
+    </File>
+    <File Include="Eva project.dll">
+      <publishTime>09/14/2023 21:08:36</publishTime>
+    </File>
+    <File Include="Eva project.exe">
+      <publishTime>09/14/2023 21:08:36</publishTime>
+    </File>
+    <File Include="Eva project.pdb">
+      <publishTime>09/14/2023 21:08:36</publishTime>
+    </File>
+    <File Include="Eva project.runtimeconfig.json">
+      <publishTime>09/14/2023 16:04:35</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>07/15/2023 05:53:46</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.Internal.dll">
+      <publishTime>07/15/2023 05:51:38</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Cryptography.KeyDerivation.dll">
+      <publishTime>07/15/2023 05:52:22</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll">
+      <publishTime>07/15/2023 05:52:40</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.OpenApi.dll">
+      <publishTime>06/21/2023 23:01:38</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>04/15/2020 00:39:12</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>03/31/2023 19:51:44</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>07/12/2023 23:37:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
